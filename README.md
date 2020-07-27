@@ -4,9 +4,9 @@
 
 # Εργαλεία
 
-* Δημιουργία MySQL βάσης (αυτοματοποιημένα μέσω ανεβάσματος του αρχείου δεδομένων csv στο phpmyadmin)
-* nodejs για το backend (πιθανόν)
-* HTML/Javascript για το frontend
+* Βάση: Δημιουργία MySQL βάσης (αυτοματοποιημένα μέσω ανεβάσματος του αρχείου δεδομένων csv στο phpmyadmin)
+* Backend: Java, Javascript(ίσως χρειαστεί)
+* Frontend: HTML/Javascript
 
 # Author
 
