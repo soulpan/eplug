@@ -6,7 +6,7 @@
 
 * Βάση: Δημιουργία MySQL βάσης (αυτοματοποιημένα μέσω ανεβάσματος του αρχείου δεδομένων csv στο phpmyadmin)
 * Backend: Java Servlet
-* Frontend: HTML/Javascript
+* Frontend: HTML/CSS/Javascript
 
 Για την ανάπτυξη της εφαρμογής χρησιμοποιήθηκε το setup του Eclipse, που είχε γίνει στο 1ο εργαστήριο του μαθήματος, με εξαίρεση 2 διαφορές στις εκδόσεις:
 * Jdk14.0.1 αντί για jdk14
