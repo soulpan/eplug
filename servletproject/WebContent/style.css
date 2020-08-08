@@ -1,0 +1,11 @@
+	h2 {text-align: center;}
+	h4 {text-align: center;}
+	.column {
+	float: left;
+	width: 50%;
+	}
+	.row:after {
+	content: "";
+	display: table;
+	clear: both;
+	}
